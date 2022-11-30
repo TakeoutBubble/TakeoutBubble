@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![@takeoutbubble's Holopin board](https://holopin.me/takeoutbubble)](https://holopin.io/@takeoutbubble)
 <!--
 **TakeoutBubble/takeoutbubble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
